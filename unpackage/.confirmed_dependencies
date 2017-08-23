@@ -1,0 +1,28 @@
+{
+	"index.html": {
+		"resources": [
+			"css/index.css",
+			"js/mui.min.js",
+			"css/mui.min.css",
+			"js/my_index.js",
+			"list.html"
+		],
+		"refer": [
+			"list.html"
+		]
+	},
+	"new_file.html": {
+		"resources": [
+			"js/mui.min.js",
+			"css/mui.min.css"
+		],
+		"refer": []
+	},
+	"list.html": {
+		"resources": [
+			"css/mui.min.css",
+			"js/my_List.js",
+			"js/mui.min.js"
+		]
+	}
+}
